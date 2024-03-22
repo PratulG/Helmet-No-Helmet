@@ -3,6 +3,7 @@
 This repository contains the YOLOv5 model trained for detecting riders with and without helmets, as well as number plates.
 
 ## Dataset
+https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate
 
 The dataset consists of images annotated with four classes:
 - with helmet
